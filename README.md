@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Priscilla Chen
+- 👀 I’m an undergraduate student at Calvin University, doubling majoring in Data Science and Psychology.
+- 🌱 I’m currently learning Machine Learning, Statistic Modelling.
+- ⚡ Check out my portfolio at https://github/Cpril.io
+- 📫 Email Me at jc253@calvin.edu
