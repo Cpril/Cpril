@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Priscilla Chen**
-- 👀 I’m an undergraduate student at Calvin University, doubling majoring in *Data Science* and *Psychology*.
+- 👀 I’m an undergraduate student at Calvin University, double majoring in *Data Science* and *Psychology*.
 - 🌱 I’m currently learning Machine Learning, Statistic Modelling.
 - ⚡ Check out my portfolio at [https://github/Cpril.io](https://Cpril.github.io/portfolio)
 - 📫 Email Me at jc253@calvin.edu
